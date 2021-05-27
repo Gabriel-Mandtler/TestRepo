@@ -5,6 +5,7 @@ public class App {
 	
 	public static void main(String[] args) {
 		
+		System.out.println("Hallo");
 		List<Artikel> liste = new ArrayList<Artikel>();
 		int check = 0;
 		//test
